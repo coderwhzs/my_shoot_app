@@ -6,7 +6,7 @@
  * @LastEditTime: 2021-07-03 10:24:21
 -->
 <template>
-  <router-view></router-view>
+  <div class="bg-red-300">Test</div>
 </template>
 
 <script lang="ts">
