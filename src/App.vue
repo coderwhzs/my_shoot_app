@@ -3,10 +3,10 @@
  * @Author: ZL
  * @Date: 2021-07-02 17:31:27
  * @LastEditors: ZL
- * @LastEditTime: 2021-07-03 10:24:21
+ * @LastEditTime: 2021-07-03 13:28:55
 -->
 <template>
-  <div class="bg-red-300">Test</div>
+  <router-view />
 </template>
 
 <script lang="ts">
